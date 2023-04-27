@@ -1,5 +1,5 @@
 public class concat {
-    String concatenar(Strng a, Strng b) {
+    String concatenar(String a, String b) {
 	    a += b;
 	    return a;
 	}
